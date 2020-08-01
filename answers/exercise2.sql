@@ -1,0 +1,1 @@
+SELECT * FROM Students WHERE LEFT(City, 1) = '[acs]';
