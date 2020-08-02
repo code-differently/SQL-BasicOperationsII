@@ -1,0 +1,1 @@
+SELECT * FROM Students WHERE CreditHours BETWEEN 10 AND 20;
