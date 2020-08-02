@@ -1,0 +1,1 @@
+SELECT * FROM Students WHERE Substring(City, 1, 2) = 'a';
